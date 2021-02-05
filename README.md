@@ -1,2 +1,2 @@
 # Notary
-Basic notary contract for verifying documents.
+*Basic notary contract for verifying documents.*
